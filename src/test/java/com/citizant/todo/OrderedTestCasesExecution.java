@@ -24,7 +24,7 @@ import java.sql.SQLException;
 //import com.citizant.order.dto.Order;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
-public class OrderedTestCasesExecution {
+public class OrderTestCasesExecution {
 	
 	@Test
 	public void firstTestCase()
