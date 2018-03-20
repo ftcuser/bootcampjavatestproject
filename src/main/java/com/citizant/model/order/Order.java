@@ -1,5 +1,5 @@
 
-package com.citizant.model.order
+package com.citizant.model.order;
 
 public class StringOrder {
 
