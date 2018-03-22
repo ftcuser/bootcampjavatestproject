@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.citizant.model.order.StringOrder;
+import com.citizant.model.order.Order;
 
 public class OrderTest {
 	
