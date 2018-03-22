@@ -1,7 +1,7 @@
 
 package com.citizant.model.order;
 
-public class StringOrder {
+public class Order {
 
 public String truncateAInFirst2Positions(String str){
 
