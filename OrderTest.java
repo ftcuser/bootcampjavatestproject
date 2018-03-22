@@ -6,9 +6,9 @@ import org.junit.Test;
 
 import com.citizant.model.order.StringOrder;
 
-public class StringOrderTest {
+public class OrderTest {
 	
-	StringOrder order = new StringOrder();
+	Order order = new Order();
 	
 	@Test
 	public void testTruncateAInFirst2Positions_Ainfirst2positions() {
