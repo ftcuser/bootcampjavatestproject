@@ -21,7 +21,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class OrderOnlineTest {
 
 	private String Seleniumhub = "http://50.19.179.31:4444/wd/hub";
-	private String baseUrl =  "http://52.55.72.33:8080/login";
+	private String baseUrl =  "http://54.152.33.121:8080/login";
 	private static WebDriver driver;
 	private WebDriverWait driverWait;
 	private String actualTitle;
