@@ -71,8 +71,8 @@ driver.quit();
 @Test
 public void bootcampjavatest() throws Exception {
 		//System.out.println("Hello4");
-driver.findElement(By.name("username")).sendKeys("Lakshmi");
-driver.findElement(By.name("password")).sendKeys("dummy");
+driver.findElement(By.name("username")).sendKeys("guest");
+driver.findElement(By.name("password")).sendKeys("guest");
 System.out.println("username:");
 System.out.println("pw:");
 driver.findElement(By.name("submit")).click();
